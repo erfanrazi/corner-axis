@@ -1,7 +1,7 @@
 # corner-axis
 A very simple xyz coordinate axis at corner of screen, representing the direction of camera.
 
-This project uses OpenGl.
+This project uses OpenGL.
 
 Dependencies:
 - [freeglut](http://freeglut.sourceforge.net/)
